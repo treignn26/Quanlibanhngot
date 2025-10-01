@@ -1,6 +1,21 @@
 <h1>Dự án: Cake Store Website</h1>
+<h2>Giới thiệu</h2>
 
-<h2>Chức năng:</h2>
-    
-    - Quản lý .
-    - Quản lý dịch vụ.
+    - Mô tả:
+        Website bán bánh kết hợp bán trà và cafe là một sản phẩm giao diện người dùng thiết kế nhằm hỗ trợ việc quản lý, trưng bày và để bán bánh trực tuyến một cách tiện lợi, hiện đại. Dự án này được xây dựng trên nền tảng thiết kế Figma, với mục tiêu cải thiện trải nghiệm người dùng, tăng tính tiện dụng đồng thời hỗ trợ nhóm lập trình trong quá trình phát triển hệ thống thực tế.
+        Mục tiêu cốt lõi của dự án là tạo ra một giao diện website bán bánh chuyên nghiệp, đáp ứng nhu cầu sử dụng của cả người dũng lẫn quản trị viên.
+    - Ngôn ngữ:
+
+<h2>Chức năng chính:</h2>
+
+    - Đối với người dùng:
+        + Tìm kiếm
+        + Xem chi tiết sản phẩm
+        + Thêm vào giỏ hàng
+        + Thanh toán
+        + ...
+    - Đối với quản trị viên:
+        + Thêm, sửa, xoá chi tiết sản phẩm
+        + Quản lý đơn hàng
+        + Quản lý tài khoản người dùng
+        +
