@@ -13,7 +13,7 @@ Mục tiêu cốt lõi là xây dựng giao diện website bán bánh chuyên ng
 - MySQL (cơ sở dữ liệu)
 
 # ⚙️ Chức năng chính
-*👩‍🍳 Đối với khách hàng:
+## 👩‍🍳 Đối với khách hàng:
 - Xem danh sách và chi tiết sản phẩm
 - Phân loại sản phẩm theo loại bánh, trà, cà phê,...
 - Xem giá, số lượng, mô tả sản phẩm
@@ -22,7 +22,7 @@ Mục tiêu cốt lõi là xây dựng giao diện website bán bánh chuyên ng
 - Xác nhận đơn hàng sau khi đặt
 - Nhận thông báo tình trạng đơn hàng
 
-*🧑‍💼 Đối với quản trị viên:
+## 🧑‍💼 Đối với quản trị viên:
 - Đăng nhập hệ thống quản trị cửa hàng
 - Chỉnh sửa thông tin cửa hàng (tên, mô tả, logo, địa chỉ, liên hệ, v.v.)
 - Quản lý sản phẩm:
