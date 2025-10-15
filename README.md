@@ -1,5 +1,5 @@
-##🍰 Dự án: Cake Store Website
-#🧁 Giới thiệu
+# 🍰 Dự án: Cake Store Website
+# 🧁 Giới thiệu
 
 -Mô tả:
 Website bán bánh kết hợp bán trà và cà phê là một sản phẩm giao diện người dùng được phát triển bằng framework Laravel, nhằm hỗ trợ việc quản lý, trưng bày và bán sản phẩm trực tuyến một cách hiện đại, tiện lợi.
@@ -7,12 +7,12 @@ Dự án hướng tới việc cải thiện trải nghiệm người dùng, tă
 Mục tiêu cốt lõi là xây dựng giao diện website bán bánh chuyên nghiệp, đáp ứng nhu cầu của cả khách hàng và quản trị viên.
 <img width="1469" height="1385" alt="bg-auth-resgiter" src="https://github.com/user-attachments/assets/c5c5788f-d39c-41fa-93e1-4068d8a33fb3" />
 
-#💻 Ngôn ngữ và công nghệ sử dụng:
+# 💻 Ngôn ngữ và công nghệ sử dụng:
 - HTML, CSS, JavaScript
 - PHP (Laravel Framework)
 - MySQL (cơ sở dữ liệu)
 
-#⚙️ Chức năng chính
+# ⚙️ Chức năng chính
 *👩‍🍳 Đối với khách hàng:
 - Xem danh sách và chi tiết sản phẩm
 - Phân loại sản phẩm theo loại bánh, trà, cà phê,...
